@@ -1,5 +1,5 @@
-# react-flexi-image-grid
-React js Flexible Image Grid View
+# react-event-list
+React js Notification Listing, event listing, with clear button
 
 <h2>How to install ?</h2> 
 <pre>
